@@ -8,7 +8,7 @@ body {
  	--bg-color: #F3F7F9;
  	--bg-content-color: #fff;
  	--bg-code: #fffbf3;
- 	--body-color: #444;
+ 	--body-color: rgb(49, 46, 46);
  	--title-color: #111;
  	--link-color: #6b17e6;
  	--border-color:  rgba(0,0,0,.1);;
@@ -32,11 +32,11 @@ body {
 
 // Override variables for Dark theme
 body[data-theme="dark"] {
- 	--bg-color: #0D2538;
- 	--bg-content-color: #0f2d44;
+ 	--bg-color: #1d0c47;
+ 	--bg-content-color: #0f1c4b;
  	--bg-code: rgba(0,0,0,.3);
- 	--border-color:  rgba(255,255,255,.1);;
- 	--body-color: #ced8de;
+ 	--border-color:  rgba(31, 2, 2, 0.1);;
+ 	--body-color: #b0c9d8;
  	--title-color: #fff;
  	--link-color: #af9cef;
 }
