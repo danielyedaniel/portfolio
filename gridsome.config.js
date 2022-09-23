@@ -7,7 +7,9 @@
 module.exports = {
   siteName: 'Daniel Ye',
   siteDescription: 'Welcome to my portfolio!',
-
+  siteUrl: 'https://danielyedaniel.github.io',
+  pathPrefix: '/portfolio',
+  
   templates: {
     Post: '/:title',
     Tag: '/tag/:id'
