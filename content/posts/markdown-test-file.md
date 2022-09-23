@@ -1,10 +1,10 @@
 ---
-title: Markdown test file
-date: 2019-02-06
+title: About Myself
+date: 2022-09-23
 published: true
-tags: ['Markdown','Test files']
+tags: ['Daniel','Ye']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Hi there! I'm Daniel and welcome to my portfolio! I am a current Software Engineering student at the University of Waterloo and am looking for co-op opportunities."
 ---
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted
