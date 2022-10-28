@@ -9,4 +9,4 @@ canonical_url: false
 description: "A simple budgeting application made for Android OS. "
 ---
 
-This project was my first of many things. This was my first experience with application development and in a collaborative coding environment. Although the application needs a lot of work, it was an amazing learning experience. I learned about programming in a team setting and version control. 
+This project was my first of many things. This was my first experience with application development and in a collaborative coding environment. Although the application needs a lot of work, it was an amazing learning experience. I learned about programming in a team setting and version control.
