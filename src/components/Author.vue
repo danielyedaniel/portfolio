@@ -14,6 +14,7 @@
 		<p class="author__links">
 			<a href="//linkedin.com/in/daniel-ye-3a889a243/">LinkedIn</a>
 			<a href="//github.com/danielyedaniel">GitHub</a>
+			<a href="https://drive.google.com/file/d/1d9pvleIMXe4Cu7jTGH9yc4zjD1HfTaYZ/view?usp=sharing">Resume</a>
 		</p>
 
 	</div>
