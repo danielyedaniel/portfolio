@@ -8,29 +8,10 @@ description: "Hi there! I'm Daniel and welcome to my portfolio! I am a current S
 ---
 I am a hard-working, dedicated individual that is always looking for learning opportunities! 
 
-Please find my resume attached to the link below
+Please find my resume below.
 
-```html
-<template>
-  <Layout>
-    <h2>Latest blog posts</h2>
-    <ul>
-      <li v-for="edge in $page.allWordPressPost.edges" :key="edge.node.id">
-        {{ edge.node.title }}
-      </li>
-    </ul>
-  </Layout>
-</template>
-
-<page-query>
-query Blog {
-  allWordPressPost (limit: 5) {
-    edges {
-      node {
-        _id
-        title
-      }
-    }
-  }
-}
-</page-query>
+<table>
+		<p class="resume_link">
+			<a href="https://drive.google.com/file/d/1d9pvleIMXe4Cu7jTGH9yc4zjD1HfTaYZ/view?usp=sharing">Resume</a>
+		</p>
+</table>
