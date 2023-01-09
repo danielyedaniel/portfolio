@@ -36,6 +36,9 @@ export default {
 
 <style lang="scss">
 .author {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 	margin: 0 auto;
 	max-width: 500px;
 	text-align: center;
