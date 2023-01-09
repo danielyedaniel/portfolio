@@ -2,6 +2,10 @@
   <div id="app">
 
     <header class="header">
+      <div>
+        <Navigator></Navigator>
+        <router-view></router-view>
+      </div>
       <div class="header__left">
         <Logo v-if="showLogo" /> 
       </div>
@@ -26,6 +30,7 @@
 <script>
 import Logo from '~/components/Logo.vue'
 import ToggleTheme from '~/components/ToggleTheme.vue'
+import Navigator from '../components/Navigator.vue';
 
 export default {
   props: {
@@ -33,8 +38,9 @@ export default {
   },
   components: {
     Logo,
-    ToggleTheme
-  }
+    ToggleTheme,
+    Navigator
+}
 }
 </script>
 
